@@ -67,7 +67,6 @@ namespace Empleados.Controllers
                     throw;
                 }
             }
-
             return NoContent();
         }
 
